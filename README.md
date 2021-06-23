@@ -1,7 +1,6 @@
-### Hi there 👋
-
 # Hello World!
 
+### Hi there 👋
 My name is Shahryar Raza, and here are a few things I'm Learning/Working on:
 
 - Learning python
